@@ -1,0 +1,40 @@
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\jolaw\source\repos\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200 C#\Labs\Lab 1\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\jczer\Downloads\Sample Solution Lab 1 PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.pdb
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.exe.config
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.exe
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\bin\Debug\PowerBill.pdb
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.frmMain.resources
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.Properties.Resources.resources
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.GenerateResource.cache
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.exe
+C:\Users\hahne\Desktop\PowerBill\PowerBill\PowerBill\obj\Debug\PowerBill.pdb

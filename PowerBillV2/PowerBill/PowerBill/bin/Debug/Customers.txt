@@ -1,0 +1,3 @@
+R,123,Test,11.2
+C,456,John Commercial,69
+I,9876,Customer Industrial,51.2
